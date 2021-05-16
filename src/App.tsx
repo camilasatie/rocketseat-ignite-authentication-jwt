@@ -1,4 +1,4 @@
-import { AuthProvider } from "../contexts/AuthContent";
+import { AuthProvider } from "./contexts/AuthContent";
 import { Login } from "./components/Login";
 
 export default function App() {
